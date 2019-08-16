@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color: black;
+}
+
+
+
+.App-header{
+  background-color: #282c34;
+  font-size: 30px;
+  height: 300px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  font-size: 30px;
+}
+
+.users-text{
+  color: black;
+}
